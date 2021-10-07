@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="IBR" size="1.000000 1.778643" />
+    <ImageTarget name="Carnet" size="1.000000 1.777778" />
+    <ImageTarget name="AR" size="1.000000 1.000000" />
+    <ImageTarget name="passat" size="0.200000 0.144375" />
+    <ImageTarget name="A7-2020" size="0.200000 0.112500" />
+    <ImageTarget name="g700" size="0.200000 0.195330" />
+  </Tracking>
+</QCARConfig>
